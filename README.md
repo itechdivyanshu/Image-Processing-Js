@@ -1,8 +1,7 @@
 # Image-Processing-Js
 Facial Recognition, Tracking, Emotion Processing with javascript and face api
 
-![Screenshot_2020-07-06 Document](https://user-images.githubusercontent.com/55910733/86648678-b2c3db80-bffe-11ea-9662-74ff4355de96.png)
-
+![Screenshot_2020-07-06 Face Recognition(1)](https://user-images.githubusercontent.com/55910733/86648717-ba838000-bffe-11ea-86e3-815f0d243906.png)
 
 ## Using face-api.js and tensorflow.js
 
